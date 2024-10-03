@@ -8,7 +8,7 @@ export class LogoApiService {
 
   constructor() { }
 
-  getUrlLogo(source: any){
+  getUrlToLogo(source: any){
     return `${this.baseUrl}${new URL(source.url).hostname}`;
   }
 }
