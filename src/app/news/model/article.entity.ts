@@ -30,4 +30,3 @@ export class Article {
     this.source = new Source();
   }
 }
-

@@ -1,4 +1,4 @@
-import { Source } from './source.entity';
+import {Source} from './source.entity';
 
 describe('Source', () => {
   it('should create an instance', () => {
