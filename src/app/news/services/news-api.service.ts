@@ -54,4 +54,3 @@ export class NewsApiService {
     return this.getArticlesBySourceId('bbc-news');
   }
 }
-
